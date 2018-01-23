@@ -9,7 +9,7 @@
             "name":"RiceDuino",
             "platforms": [
                 {
-                  "name": "bitDuino10)",
+                  "name": "Riceduino",
                   "architecture": "avr",
                   "version": "1.0.0",
                   "category": "Contributed",
