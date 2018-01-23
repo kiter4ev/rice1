@@ -1,0 +1,34 @@
+
+{
+  "packages": [
+    {
+      "name": "bitDuino10",
+      "maintainer": "bryan riceDuino",
+      "websiteURL": "https://github.com/kiter4ev/rice1/",
+      "email": "",
+      "help": {
+        "online": ""
+      },
+      "platforms": [
+        {
+          "name": "bitDuino10",
+          "architecture": "avr",
+          "version": "1.0.0",
+          "category": "Contributed",
+          "help": {
+            "online": ""
+          },
+          "url": "https://github.com/kiter4ev/rice1/riceduino.tar.gz",
+          "archiveFileName": "riceduino.tar.gz",
+          "checksum": "SHA-256:A81822F5A7E6BAAC914450A29EBD1CEC19642B8C407F37F9E0BC3539E4AB4EE1",
+          "size": "28459",
+          "boards": [
+            {"name": "ATtiny10"}
+          ],
+          "toolsDependencies": []
+        }
+      ],
+      "tools": []
+    }
+  ]
+}
