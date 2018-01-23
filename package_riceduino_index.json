@@ -15,7 +15,7 @@
                   "category": "Contributed",
                   "url": "https://raw.githubusercontent.com/kiter4ev/rice1/master/riceduino.tar.gz",
                   "archiveFileName": "riceduino.tar.gz",
-                  "checksum": "SHA-256:2BE3BA3713F207E4E208A96B5CABA689DFEAE79DC4FA0B6CB956B46972D95D1C",
+                  "checksum": "SHA-256:2ED941BAFE2B67FEF6B763D2BCC82B03742DA043A5DDC432DA6FCD9985F99B6A",
                   "size": "28459",
                   "boards": [
                     {"name": "ATtiny10"}
